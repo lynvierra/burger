@@ -1,0 +1,40 @@
+
+body {
+    background: goldenrod;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+.jumbotron {
+    background: goldenrod;
+    padding: 0;
+    margin: 50px auto;
+}
+
+#burger-list {
+    margin: 10px; 
+    padding: 10px 10px 10px 5px; 
+    max-width: 50px;
+    justify-content: center;
+    background-color: azure;
+}
+
+#burger-image {
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
+.form-group {
+    margin-bottom: 5px;
+    text-align: center;
+    margin: auto auto;
+    width: 50%;
+  }
+  
+  .create-group {
+      padding: 0;
+  }
