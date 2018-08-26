@@ -1,7 +1,6 @@
 # **Eat-Da-Burger application**
 ### The Eat-Da-Burger application is built using full stack development techniques. It uses HTML, CSS, Bootstrap, javascript, node.js, express, MySQL and the Handlebars template/library.
-### Author: Rod Skoglund
-### Date: August 17, 2018
+### Author: Lyn Vierra
 
 ----------------
 
