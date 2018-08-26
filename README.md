@@ -43,7 +43,7 @@ https://stark-garden-82013.herokuapp.com/
 
 To run the application locally, first clone this repository with the following command.
 
-	git clone https://github.com/lynvierra/Burger.git
+	git clone https://github.com/lynvierra/burger.git
 	
 Next, install the application dependencies.
 
